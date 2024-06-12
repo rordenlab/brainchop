@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://neuroneural.github.io/brainchop">
-    <img width="100%" src="https://github.com/neuroneural/brainchop/blob/master/css/images/Banner.png">
+    <img width="100%" src="https://github.com/neuroneural/brainchop/releases/download/v3.4.0/Banner.png">
   </a>
 
 
@@ -23,7 +23,7 @@
  </p>
 
  <p align="justify">
- We make the implementation of Brainchop freely available, releasing its pure javascript code as open-source. The user interface (UI)  provides a web-based end-to-end solution for 3D MRI segmentation. <b><a href="v"  style="text-decoration: none">NiiVue</a></b> viewer is integrated with the tool for MRI visualization.  For more information about Brainchop, please refer to this detailed <b><a href="https://github.com/neuroneural/brainchop/wiki/"  style="text-decoration: none">Wiki</a></b> and this <b><a href="https://trendscenter.org/in-browser-3d-mri-segmentation-brainchop-org/"  style="text-decoration: none"> Blog</a></b>.
+ We make the implementation of brainchop freely available, releasing its pure javascript code as open-source. The user interface (UI)  provides a web-based end-to-end solution for 3D MRI segmentation. <b><a href="v"  style="text-decoration: none">NiiVue</a></b> viewer is integrated with the tool for MRI visualization.  For more information about Brainchop, please refer to this detailed <b><a href="https://github.com/neuroneural/brainchop/wiki/"  style="text-decoration: none">Wiki</a></b> and this <b><a href="https://trendscenter.org/in-browser-3d-mri-segmentation-brainchop-org/"  style="text-decoration: none"> Blog</a></b>.
 
   For questions or to share ideas, please refer to our  <b><a href="https://github.com/neuroneural/brainchop/discussions/"  style="text-decoration: none"> Discussions </a></b> board.
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/brainchop_Arch.png)
+![Interface](https://github.com/neuroneural/brainchop/releases/download/v3.4.0/brainchop_Arch.png)
 
 **Brainchop high-level architecture**
 </div>
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/DL_Arch.png)
+![Interface](https://github.com/neuroneural/brainchop/releases/download/v3.4.0/DL_Arch.png)
 
 **MeshNet deep learning architecture used for inference with Brainchop** (MeshNet  <a href="https://arxiv.org/pdf/1612.00940.pdf" target="_blank"  style="text-decoration: none"> paper</a>)
 </div>
@@ -70,7 +70,7 @@ For **v3** click [here](https://neuroneural.github.io/brainchop/v3).
 
 <div align="center">
 
-  <img src="https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop_Niivue.png"  width="100%">
+ <img src="https://github.com/neuroneural/brainchop/releases/download/v4.0.0/Brainchop_Niivue.png" width="100%">
 
 **Brainchop <a href= "https://neuroneural.github.io/brainchop/" target="_blank"  style="text-decoration: none"> v4 </a> with <a href= "https://github.com/niivue/niivue" target="_blank"  style="text-decoration: none"> NiiVue</a> viewer**
 </div>
@@ -79,7 +79,7 @@ For **v3** click [here](https://neuroneural.github.io/brainchop/v3).
 
 <div align="center">
 
-  <img src="https://github.com/neuroneural/brainchop/blob/master/css/images/BrainchopMoreRobustModels.gif"  width="60%">
+  <img src="https://github.com/neuroneural/brainchop/releases/download/v3.4.0/BrainchopMoreRobustModels.gif"  width="60%">
 
 **Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v3 </a> with more robust models**
 </div>
@@ -89,7 +89,7 @@ For **v3** click [here](https://neuroneural.github.io/brainchop/v3).
 
 <div align="center">
 
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Input3DEnhancements.gif)
+![Interface](https://github.com/neuroneural/brainchop/releases/download/v3.4.0/Input3DEnhancements.gif)
 
 **Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v1.4.0 - v3.4.0 </a> rendering MRI Nifti file in 3D**
 </div>
@@ -98,7 +98,7 @@ For **v3** click [here](https://neuroneural.github.io/brainchop/v3).
 
 <div align="center">
 
-![Interface](https://github.com/neuroneural/brainchop/blob/master/css/images/Brainchop3D.gif)
+![Interface](https://github.com/neuroneural/brainchop/releases/download/v3.4.0/Brainchop3D.gif)
 
 
 **Brainchop <a href= "https://neuroneural.github.io/brainchop/v3" target="_blank"  style="text-decoration: none"> v1.3.0 - v3.4.0 </a>  rendering segmentation output in 3D**
